@@ -1,0 +1,48 @@
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T06:03:22.715Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T06:04:53.693Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T06:05:11.268Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T07:24:50.329Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T07:24:55.373Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T07:25:08.838Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T07:25:14.683Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T10:04:48.680Z'
+}
