@@ -14,6 +14,6 @@ app.use('/api', userRoutes)
 connectDB();
 
 app.listen(PORT, () => {
-    logger.error('something went wrong')
+    logger.error('something went wrong here')
     logger.info('server is running on port 3001')
 })

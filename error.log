@@ -46,3 +46,105 @@
   service: 'user-service',
   timestamp: '2024-05-03T10:04:48.680Z'
 }
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T08:47:37.658Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T08:49:49.683Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T08:55:16.521Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T08:58:28.360Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T08:59:26.085Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:01:40.246Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:04:42.053Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:12:00.854Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:16:20.571Z'
+}
+{
+  message: 'error in registerUser {} ',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:16:23.993Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:27:06.119Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:29:13.612Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:31:21.633Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:31:23.592Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:32:25.649Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:33:07.219Z'
+}
+{
+  message: 'something went wrong here',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-23T09:36:58.213Z'
+}

@@ -15,3 +15,9 @@ export const createValidator =[
     body('password', 'password does not Empty').not().isEmpty(),
     body('password', 'The minimum password length is 4 characters').isLength({min: 4}),
 ]
+
+export const loginUserValidator = [
+    body('email', 'invalid, email cannot be empty').not().notEmpty(),
+    body('email', 'Invalid email').isEmail(),
+    body('password', 'Invalid creds').not().isEmpty().isLength({min : 5}),
+]
